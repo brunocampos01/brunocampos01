@@ -56,80 +56,80 @@ I love to explore new technologies and leverage them to solve real-life problems
       <tr>
 	      <td><a href="https://github.com/brunocampos01/introducao-a-informatica"><b>Introdução à Informática</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/introducao-a-informatica?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/Gitwar?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/introducao-a-informatica?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/introducao-a-informatica?label=markdown&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TradeByte?label=javascript&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/introducao-a-programacao-orientada-a-objetos?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/introducao-a-programacao-orientada-a-objetos?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/introducao-a-programacao-orientada-a-objetos?label=java&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas"><b>Desenvolvimento de Sistemas</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TheNodeCourse?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/desenvolvimento-de-sistemas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/desenvolvimento-de-sistemas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/desenvolvimento-de-sistemas?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores"><b>Organização e Arquitetura de Computadores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/Gitwar?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/organizacao-e-arquitetura-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/organizacao-e-arquitetura-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/organizacao-e-arquitetura-de-computadores?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/banco-de-dados"><b>Banco de Dados</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TradeByte?label=javascript&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/banco-de-dados?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/banco-de-dados?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/banco-de-dados?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida"><b>Programacao Paralela e Distribuida</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TheNodeCourse?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/programacao-paralela-e-distribuida?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/programacao-paralela-e-distribuida?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/programacao-paralela-e-distribuida?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/game-craps"><b>Engenharia de Software (game)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TradeByte?label=javascript&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/game-craps?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/game-craps?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/game-craps?label=java&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/learning-prolog"><b>Learning prolog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TheNodeCourse?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/learning-prolog?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/learning-prolog?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/learning-prolog?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/Gitwar?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/compiladores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/compiladores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/compiladores?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/inteligencia-artificial"><b>Inteligencia Artificial</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TradeByte?label=javascript&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/inteligencia-artificial?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/inteligencia-artificial?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/inteligencia-artificial?label=python&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de computadores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/Gitwar?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/redes-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/redes-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/redes-de-computadores?label=markdown&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/seguranca"><b>Seguranca de Informação</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TradeByte?label=javascript&style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/seguranca?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/seguranca?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/seguranca?label=java&style=flat-square"/></td>
       </tr>  
       <tr>
 	      <td><a href="https://github.com/brunocampos01/tcc-ufsc-grad"><b>TCC</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/TheNodeCourse?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/tcc-ufsc-grad?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/tcc-ufsc-grad?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/brunocampos01/tcc-ufsc-grad?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
