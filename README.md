@@ -18,20 +18,6 @@
 I love to explore new technologies and leverage them to solve real-life problems 🤓.
 
 
-## 📘 My top open source projects
-
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
-  <a href="https://twitter.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
-</p>
 
 
 <!-- 
@@ -52,7 +38,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 #### 🎈 — More
 
-
+<!-- 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -152,23 +138,22 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 
 
+ -->
 
-
-### Projects and Dev Stuffs:
+## 📊 Stats
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <summary><b>:octocat: Github Profile Stats</b></summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=dark&icon_color=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=dark&icon_color=dark"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <summary><b>☄ Github Streaks</b></summary>
+	<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
 </details>
 
 <details>
@@ -223,16 +208,20 @@ I love to explore new technologies and leverage them to solve real-life problems
   </table>
   <br />
 </details>
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>Browser: </b> Brave</li>
+	    <li><b>Terminal: </b> Bash: Oh My Bash</li>
+	    <li><b>Code Editor:</b> VSCode + Pycharm</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My Personal Configrations <a href="https://github.com/brunocampos01/home-sweet-home">Here</a>.
+	</ul>	
+</details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brunocampos01)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/brunocampos01)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brunocampos01)  
 
  -->
 <h4 align="center">
