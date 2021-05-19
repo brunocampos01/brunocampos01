@@ -20,8 +20,8 @@ I love to explore new technologies and leverage them to solve real-life problems
  -->
 <details>	
   <summary><b>:octocat: Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=dark&icon_color=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning,finding-donors,porto-seguro-safe-driver-prediction,tcc-ufsc-grad,analise-gastos-senadores-CEAPS,challenge-back-end,challenge-indicium,challenge-keyrus,allstate-claims-severity,personal-blog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=dark&icon_color=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning,finding-donors,porto-seguro-safe-driver-prediction,tcc-ufsc-grad,analise-gastos-senadores-CEAPS,challenge-back-end,challenge-indicium,challenge-keyrus,allstate-claims-severity,personal-blog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -40,75 +40,61 @@ I love to explore new technologies and leverage them to solve real-life problems
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
+        <td><b>:clipboard: Summary</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/introducao-a-informatica"><b>Introdução à Informática</b></a></td>
-        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/introducao-a-informatica?style=flat-square&labelColor=343b41"/></td>
+	      <td><a href="https://github.com/brunocampos01/teoria-da-computacao"><b>Teoria da Computação</b></a></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/introducao-a-programacao-orientada-a-objetos?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/introducao-a-programacao-orientada-a-objetos?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas"><b>Desenvolvimento de Sistemas</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/desenvolvimento-de-sistemas?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/desenvolvimento-de-sistemas?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=desenvolvimento-de-sistemas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores"><b>Organização e Arquitetura de Computadores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/organizacao-e-arquitetura-de-computadores?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/organizacao-e-arquitetura-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=organizacao-e-arquitetura-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/banco-de-dados"><b>Banco de Dados</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/banco-de-dados?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/banco-de-dados?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=banco-de-dados&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida"><b>Programacao Paralela e Distribuida</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/programacao-paralela-e-distribuida?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/programacao-paralela-e-distribuida?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=programacao-paralela-e-distribuida&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/game-craps"><b>Engenharia de Software (game)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/game-craps?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/game-craps?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=game-craps&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/learning-prolog"><b>Learning prolog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/learning-prolog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/learning-prolog?style=flat-square&labelColor=343b41"/></td>
+	      <td><a href="https://github.com/brunocampos01/prolog-language"><b>Prolog</b></a></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/compiladores?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/compiladores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=compiladores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/inteligencia-artificial"><b>Inteligencia Artificial</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/inteligencia-artificial?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/inteligencia-artificial?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=inteligencia-artificial&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de computadores</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/redes-de-computadores?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/redes-de-computadores?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=redes-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/seguranca"><b>Seguranca de Informação</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/seguranca?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/seguranca?style=flat-square&labelColor=343b41"/></td>
+	      <td><a href="https://github.com/brunocampos01/seguranca-de-redes"><b>Seguranca de Redes</b></a></td>
+        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=seguranca-de-redes&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>  
       <tr>
 	      <td><a href="https://github.com/brunocampos01/tcc-ufsc-grad"><b>TCC</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/brunocampos01/tcc-ufsc-grad?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/brunocampos01/tcc-ufsc-grad?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=tcc-ufsc-grad&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
     </tbody>
   </table>
