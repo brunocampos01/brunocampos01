@@ -121,6 +121,10 @@ I love to explore new technologies and leverage them to solve real-life problems
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=home-sweet-home&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	
       <tr>
+      	<td><a href="https://github.com/brunocampos01/personal-blog"><b>My Blog</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=personal-blog&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
       	<td><a href="https://github.com/brunocampos01/encrypt-file"><b>Encrypt File</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=encrypt-file&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
@@ -216,10 +220,10 @@ I love to explore new technologies and leverage them to solve real-life problems
       	</tr>
 	</tr>
 	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/challenge-softplan-data-scientist"><b>Challenge Softplan Data Scientist</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-softplan-data-scientist&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td><a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio"><b>Predicting Retail Churn with Azure ML Studio</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predicting-retail-churn-with-azure-ml-studio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
-	    	<tr>
+		<tr>
       		<td><a href="https://github.com/brunocampos01/allstate-claims-severity"><b>Allstate Claims Severity</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
