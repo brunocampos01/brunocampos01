@@ -39,61 +39,62 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-	<td><b><a href="#"></a> Projects</b></td>
-        <td><b><a href="#"></a> Summary</b></td>
+	<td><b><a href="#"></a>Projects</b></td>
+        <td><b><a href="#"></a>Summary</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/teoria-da-computacao"><b>Teoria da Computação</b></a></td>
-        <td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td><a href="https://github.com/brunocampos01/teoria-da-computacao"><b>Teoria da Computação</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a>	   </td>
+        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas"><b>Desenvolvimento de Sistemas</b></a></td>
+	<td><a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas"><b>Desenvolvimento de Sistemas</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=desenvolvimento-de-sistemas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores"><b>Organização e Arquitetura de Computadores</b></a></td>
+	<td><a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores"><b>Organização e Arquitetura de Computadores</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=organizacao-e-arquitetura-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/banco-de-dados"><b>Banco de Dados</b></a></td>
+	<td><a href="https://github.com/brunocampos01/banco-de-dados"><b>Banco de Dados</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=banco-de-dados&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida"><b>Programacao Paralela e Distribuida</b></a></td>
+	<td><a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida"><b>Programacao Paralela e Distribuida</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=programacao-paralela-e-distribuida&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/game-craps"><b>Engenharia de Software (game)</b></a></td>
+	<td><a href="https://github.com/brunocampos01/game-craps"><b>Engenharia de Software (game)</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=game-craps&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/prolog-language"><b>Prolog</b></a></td>
+	<td><a href="https://github.com/brunocampos01/prolog-language"><b>Prolog</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
+	<td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=compiladores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/inteligencia-artificial"><b>Inteligencia Artificial</b></a></td>
+	<td><a href="https://github.com/brunocampos01/inteligencia-artificial"><b>Inteligencia Artificial</b></a></td>
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=inteligencia-artificial&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de Computadores</b></a></td>
+	<td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de Computadores</b></a></td>
         <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=redes-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/seguranca-de-redes"><b>Seguranca de Redes</b></a></td>
+	<td><a href="https://github.com/brunocampos01/seguranca-de-redes"><b>Seguranca de Redes</b></a></td>
         <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=seguranca-de-redes&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>  
       <tr>
-	      <td><a href="https://github.com/brunocampos01/tcc-ufsc-grad"><b>TCC</b></a></td>
+	<td><a href="https://github.com/brunocampos01/tcc-ufsc-grad"><b>TCC</b></a></td>
         <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=tcc-ufsc-grad&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
     </tbody>
@@ -106,41 +107,15 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>Projects</b></td>
+        <td><b>Summary</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
+      	<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>	    
     </tbody>
   </table>
   <br />
@@ -151,47 +126,15 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>Projects</b></td>
+        <td><b>Summary</b></td>
       </tr>
     </thead>
     <tbody>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
+	<tr>
+      		<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>	 
     </tbody>
   </table>
   <br />
@@ -202,47 +145,39 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>Projects</b></td>
+        <td><b>Summary</b></td>
       </tr>
     </thead>
     <tbody>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
+	<tr>
+      		<td><a href="https://github.com/brunocampos01/machine-learning"><b>Machine Learning and Deep Learning</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=machine-learning&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	<tr>
+      		<td><a href="https://github.com/brunocampos01/finding-donors"><b>Finding Donors</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=finding-donors&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	<tr>
+      		<td><a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction"><b>Porto Seguro Safe Driver Prediction</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	    	<tr>
+      		<td><a href="https://github.com/brunocampos01/analise-gastos-senadores-CEAPS"><b>Analise Gastos Senadores CEAPS</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=analise-gastos-senadores-CEAPS&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	    	<tr>
+      		<td><a href="https://github.com/brunocampos01/challenge-back-end"><b>Challenge Back-end</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-back-end&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	    	<tr>
+      		<td><a href="https://github.com/brunocampos01/challenge-keyrus"><b>Challenge Keyrus</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-keyrus&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	    	<tr>
+      		<td><a href="https://github.com/brunocampos01/allstate-claims-severity"><b>Allstate Claims Severity</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
     </tbody>
   </table>
   <br />
@@ -253,10 +188,8 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>Projects</b></td>
+        <td><b>Summary</b></td>
       </tr>
     </thead>
     <tbody>
