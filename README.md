@@ -39,14 +39,14 @@ I love to explore new technologies and leverage them to solve real-life problems
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>:clipboard: Summary</b></td>
+	<td><b><a href="#"></a> Projects</b></td>
+        <td><b><a href="#"></a> Summary</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/teoria-da-computacao"><b>Teoria da Computação</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+        <td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a></td>
