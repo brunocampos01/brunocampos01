@@ -85,7 +85,7 @@ I love to explore new technologies and leverage them to solve real-life problems
         <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=inteligencia-artificial&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de computadores</b></a></td>
+	      <td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de Computadores</b></a></td>
         <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=redes-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
