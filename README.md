@@ -1,12 +1,12 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badge"> -->
-![](https://komarev.com/ghpvc/?username=brunocampos01)
-
-<p align="right">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badge">
+<!-- ![](https://komarev.com/ghpvc/?username=brunocampos01)
+ -->
+<!-- <p align="right">
   <a href="https://github.com/brunocampos01">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brunocampos01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://komarev.com/ghpvc/?username=brunocampos01">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
-</p>
+    <img alt="views" title="Github views" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badge"/></a>
+</p> -->
 
 # Hey 👋, I'm Bruno Campos
 <p align="left">
@@ -17,20 +17,24 @@
 
 I love to explore new technologies and leverage them to solve real-life problems 🤓.
 
-<p  align="center">
-<a href="mailto:brunocampos01@gmail.com" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/email.png" alt="Gmail" width="30">
-</a>
-<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/stackoverflow.png" alt="GitHub" width="30">
-</a>
-<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/linkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/github.png" alt="GitHub" width="30"></a>
-<a href="https://brunocampos01.netlify.app/" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/blog.png" alt="Website" width="30">
-</a>
-<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/medium.png" alt="GitHub" width="30">
-</a>
+
+## 📘 My top open source projects
+
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
+  <a href="https://twitter.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
 
 
+<!-- 
 
 :coffee::computer:
 
@@ -230,7 +234,22 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brunocampos01)  
 
-
+ -->
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/brunocampos01?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+---
+
+<p  align="center">
+<a href="mailto:brunocampos01@gmail.com" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/email.png" alt="Gmail" width="30">
+</a>
+<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/stackoverflow.png" alt="GitHub" width="30">
+</a>
+<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/github.png" alt="GitHub" width="30"></a>
+<a href="https://brunocampos01.netlify.app/" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/blog.png" alt="Website" width="30">
+</a>
+<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/devops/blob/master/images/medium.png" alt="GitHub" width="30">
+</a>
+</p>
