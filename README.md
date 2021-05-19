@@ -115,6 +115,18 @@ I love to explore new technologies and leverage them to solve real-life problems
       <tr>
       	<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/home-sweet-home"><b>My Personal Configuration</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=home-sweet-home&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>	
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/encrypt-file"><b>Encrypt File</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=encrypt-file&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/showenv"><b>Show Enviroment</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=showenv&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	    
     </tbody>
   </table>
@@ -134,7 +146,35 @@ I love to explore new technologies and leverage them to solve real-life problems
 	<tr>
       		<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>	 
+      	</tr>
+	<tr>
+      	<td><a href="https://github.com/brunocampos01/becoming-a-expert-python"><b>Becoming a Expert Python</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/challenge-chaordic"><b>Challenge Chaordic</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-chaordic&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/challenge-indicium"><b>Challenge Indicium</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-indicium&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/business-intelligence-at-azure"><b>Business Intelligence at Azure</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/blocked-sort-based-indexing"><b>Blocked Sort Based Indexing</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=blocked-sort-based-indexing&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering"><b>Becoming a Expert Data Engineering</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>	
+      <tr>
+      	<td><a href="https://github.com/brunocampos01/pyssas"><b>Python API to handler SSAS</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=pyssas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>	    
     </tbody>
   </table>
   <br />
@@ -173,6 +213,11 @@ I love to explore new technologies and leverage them to solve real-life problems
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/challenge-keyrus"><b>Challenge Keyrus</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-keyrus&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	</tr>
+	    	<tr>
+      		<td><a href="https://github.com/brunocampos01/challenge-softplan-data-scientist"><b>Challenge Softplan Data Scientist</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-softplan-data-scientist&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/allstate-claims-severity"><b>Allstate Claims Severity</b></a></td>
