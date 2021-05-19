@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badge&style=flat-square">
 
-# Hey <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="35px">, I'm Bruno Campos
+# Hey <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="35px">, I'm Bruno Campos <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badge&style=flat-square">
+
 <p align="left">
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Big+Data+Engineering;7%2B+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)](https://git.io/typing-svg"></a>
 </p>
