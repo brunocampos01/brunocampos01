@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Big+Data+Engineering;%2B9+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
-I love to explore new technologies and leverage them to solve real-life problems 🤓.
-
 <!-- #### :memo: 2021 Goals:
 - [ ] Contribute and publish more open source projects.
 - [ ] Publish my first SaaS project.
