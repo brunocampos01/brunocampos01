@@ -1,6 +1,6 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badgee&color=green&style=flat-square">
 
-# Hey <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="35px">, I'm Bruno Campos
+## Hey <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="35px">, I'm Bruno Campos
 
 <p align="left">
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Big+Data+Engineering;8%2B+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)](https://git.io/typing-svg"></a>
@@ -13,7 +13,7 @@
 - [ ] Publish my first SaaS project.
 - [ ] Improve and expand my freelancing business. -->
 
-## <a href="#"><img src="https://img.icons8.com/material/24/000000/futures--v1.png"/></a> Stats
+### <a href="#"><img src="https://img.icons8.com/material/24/000000/futures--v1.png"/></a> Stats
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/brunocampos01/devops)
  -->
 <details>	
@@ -31,7 +31,7 @@
 
 <br/>
 
-## <a href="#"><img src="https://img.icons8.com/material/24/000000/open-source.png"/></a> My Open Souce Projects
+### <a href="#"><img src="https://img.icons8.com/material/24/000000/open-source.png"/></a> My Open Souce Projects
 <details>
   <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/graduation-cap--v1.png"/></a> Graduation</b></summary>
   <table>
