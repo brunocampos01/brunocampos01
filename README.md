@@ -21,7 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning,finding-donors,porto-seguro-safe-driver-prediction,tcc-ufsc-grad,analise-gastos-senadores-CEAPS,challenge-back-end,challenge-indicium,challenge-keyrus,allstate-claims-severity,personal-blog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <details>	
