@@ -145,8 +145,6 @@
     </thead>
     <tbody>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	<tr>
       	<td><a href="https://github.com/brunocampos01/becoming-a-expert-python"><b>Becoming a Expert Python</b></a></td>
