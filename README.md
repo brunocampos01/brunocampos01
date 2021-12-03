@@ -227,6 +227,29 @@
   <br />
 </details>
 
+
+
+
+
+
+<details>
+  <summary><b>  <a href="#"><img src="https://img.icons8.com/metro/24/000000/serial-tasks.png"/></a> MLOps</b></summary>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>Projects</b></td>
+        <td><b>Summary</b></td>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+
+
+
 <!-- 
 <details>		
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
