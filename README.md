@@ -202,8 +202,8 @@
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/analise-gastos-senadores-CEAPS"><b>Analise Gastos Senadores CEAPS</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=analise-gastos-senadores-CEAPS&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td><a href="https://github.com/brunocampos01/data-analysis-of-spending-by-brazilian-senators"><b>Data Analysis of Spending by Brazilian Senators</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=data-analysis-of-spending-by-brazilian-senators&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/challenge-back-end"><b>Challenge Back-end</b></a></td>
