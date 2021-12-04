@@ -19,7 +19,7 @@
 <details>	
   <summary><b>  <a href="#"><img src="https://img.icons8.com/material/24/000000/github-2.png"/></a> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning,finding-donors,porto-seguro-safe-driver-prediction,tcc-ufsc-grad,analise-gastos-senadores-CEAPS,challenge-back-end,challenge-indicium,challenge-keyrus,allstate-claims-severity,personal-blog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning,finding-donors,porto-seguro-safe-driver-prediction,tcc-ufsc-grad,analise-gastos-senadores-CEAPS,stock-price-and-indexes-scraper,challenge-indicium,challenge-keyrus,allstate-claims-severity,personal-blog&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 
@@ -169,7 +169,11 @@
       <tr>
       	<td><a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering"><b>Becoming a Expert Data Engineering</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>	
+      </tr>
+	<tr>
+      	  <td><a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper"><b>Stock Price and Indexes Scraper</b></a></td>
+      	  <td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=stock-price-and-indexes-scraper&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
       <tr>
       	<td><a href="https://github.com/brunocampos01/pyssas"><b>Python API to handler SSAS</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=pyssas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
@@ -204,11 +208,6 @@
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/data-analysis-of-spending-by-brazilian-senators"><b>Data Analysis of Spending by Brazilian Senators</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=data-analysis-of-spending-by-brazilian-senators&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/challenge-back-end"><b>Challenge Back-end</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-back-end&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact"><b>Predict Which Customers a Call Center Should Contact</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
