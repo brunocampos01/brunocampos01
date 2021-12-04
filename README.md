@@ -210,8 +210,8 @@
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-back-end&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/challenge-keyrus"><b>Challenge Keyrus</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-keyrus&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td><a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact"><b>Predict Which Customers a Call Center Should Contact</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	</tr>
 	    	<tr>
