@@ -208,7 +208,7 @@
 	    	<tr>
       		<td><a href="https://github.com/brunocampos01/data-analysis-of-spending-by-brazilian-senators"><b>Data Analysis of Spending by Brazilian Senators</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=data-analysis-of-spending-by-brazilian-senators&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-	    	<tr>
+	<tr>
       		<td><a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact"><b>Predict Which Customers a Call Center Should Contact</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
@@ -217,7 +217,11 @@
       		<td><a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio"><b>Predicting Retail Churn with Azure ML Studio</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predicting-retail-churn-with-azure-ml-studio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
-		<tr>
+	<tr>
+      		<td><a href="https://github.com/brunocampos01/federated-learning-for-text-generation"><b>Federated Learning for Text Generation</b></a></td>
+      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=federated-learning-for-text-generation&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	</tr>
+	<tr>
       		<td><a href="https://github.com/brunocampos01/allstate-claims-severity"><b>Allstate Claims Severity</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
