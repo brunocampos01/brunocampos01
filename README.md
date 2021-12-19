@@ -6,7 +6,7 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Big+Data+Engineering;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Big+Data+Engineering;%2B8+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineering;%2B8+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <!-- #### :memo: 2021 Goals:
 - [ ] Contribute and publish more open source projects.
