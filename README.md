@@ -230,11 +230,7 @@
   <br />
 </details>
 
-
-
-
-
-
+<!-- 
 <details>
   <summary><b>  <a href="#"><img src="https://img.icons8.com/metro/24/000000/serial-tasks.png"/></a> MLOps</b></summary>
   <table>
@@ -248,7 +244,7 @@
     </tbody>
   </table>
   <br />
-</details>
+</details> -->
 
 
 
