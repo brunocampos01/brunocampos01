@@ -91,8 +91,8 @@
         <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=seguranca-de-redes&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>  
       <tr>
-	<td><a href="https://github.com/brunocampos01/tcc-ufsc-grad"><b>TCC</b></a></td>
-        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=tcc-ufsc-grad&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td><a href="https://github.com/brunocampos01/forecast-of-time-series-with-stock-data"><b>TCC</b></a></td>
+        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=forecast-of-time-series-with-stock-data&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
     </tbody>
   </table>
