@@ -151,20 +151,12 @@
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/challenge-chaordic"><b>Challenge Chaordic</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-chaordic&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
       	<td><a href="https://github.com/brunocampos01/challenge-indicium"><b>Challenge Indicium</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-indicium&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/business-intelligence-at-azure"><b>Business Intelligence at Azure</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/brunocampos01/blocked-sort-based-indexing"><b>Blocked Sort Based Indexing</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=blocked-sort-based-indexing&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td><a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure"><b>Automated Business Intelligence at Azure</b></a></td>
+      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=automated-business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
       	<td><a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering"><b>Becoming a Expert Data Engineering</b></a></td>
@@ -194,10 +186,6 @@
     </thead>
     <tbody>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/machine-learning"><b>Machine Learning and Deep Learning</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=machine-learning&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	<tr>
       		<td><a href="https://github.com/brunocampos01/finding-donors"><b>Finding Donors</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=finding-donors&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
@@ -205,9 +193,6 @@
       		<td><a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction"><b>Porto Seguro Safe Driver Prediction</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
-	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/data-analysis-of-spending-by-brazilian-senators"><b>Data Analysis of Spending by Brazilian Senators</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=data-analysis-of-spending-by-brazilian-senators&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
 	<tr>
       		<td><a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact"><b>Predict Which Customers a Call Center Should Contact</b></a></td>
       		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
