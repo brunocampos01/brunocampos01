@@ -118,10 +118,6 @@
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=home-sweet-home&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	
       <tr>
-      	<td><a href="https://github.com/brunocampos01/personal-blog"><b>My Blog</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=personal-blog&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
       	<td><a href="https://github.com/brunocampos01/encrypt-file"><b>Encrypt File</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=encrypt-file&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
@@ -149,10 +145,6 @@
 	<tr>
       	<td><a href="https://github.com/brunocampos01/becoming-a-expert-python"><b>Becoming a Expert Python</b></a></td>
       	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/brunocampos01/challenge-indicium"><b>Challenge Indicium</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=challenge-indicium&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
       	<td><a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure"><b>Automated Business Intelligence at Azure</b></a></td>
