@@ -1,7 +1,7 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badgee&color=green&style=flat-square">
 
-## Hey, I'm Bruno Campos
-<img src="https://user-images.githubusercontent.com/12896018/147709965-2ff74702-cef4-42bb-9cd6-2c5ca92e225e.gif" align="right" width="150px">
+## Hey There, I'm Bruno Campos
+<img src="https://user-images.githubusercontent.com/12896018/147711048-a160894d-9196-4127-b544-d93458d4c590.gif" align="right" width="150px">
 
 <p align="left">
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
