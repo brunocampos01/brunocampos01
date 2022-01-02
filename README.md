@@ -44,60 +44,125 @@
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/teoria-da-computacao"><b>Teoria da Computação</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos"><b>Introdução a Programação Orientada à Objetos</b></a>	   </td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+      	<td>
+		<a href="https://github.com/brunocampos01/teoria-da-computacao">
+		<b>Teoria da Computação</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/teoria-da-computacao">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=teoria-da-computacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas"><b>Desenvolvimento de Sistemas</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=desenvolvimento-de-sistemas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
+		<b>Introdução a Programação Orientada à Objetos</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/introducao-a-programacao-orientada-a-objetos">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=introducao-a-programacao-orientada-a-objetos&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores"><b>Organização e Arquitetura de Computadores</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=organizacao-e-arquitetura-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas">
+		<b>Desenvolvimento de Sistemas</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/desenvolvimento-de-sistemas">
+		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=desenvolvimento-de-sistemas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/banco-de-dados"><b>Banco de Dados</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=banco-de-dados&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores">
+		<b>Organização e Arquitetura de Computadores</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/organizacao-e-arquitetura-de-computadores">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=organizacao-e-arquitetura-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida"><b>Programacao Paralela e Distribuida</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=programacao-paralela-e-distribuida&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/banco-de-dados">
+		<b>Banco de Dados</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/banco-de-dados">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=banco-de-dados&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/game-craps"><b>Engenharia de Software (game)</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=game-craps&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida">
+		<b>Programacao Paralela e Distribuida</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/programacao-paralela-e-distribuida">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=programacao-paralela-e-distribuida&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/prolog-language"><b>Prolog</b></a></td>
+	<td>
+		<a href="https://github.com/brunocampos01/game-craps">
+		<b>Engenharia de Software (game)</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/game-craps">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=game-craps&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+	<td>
+		<a href="https://github.com/brunocampos01/prolog-language">
+		<b>Prolog</b></a>
+	</td>
         <td>
 		<a href="https://github.com/brunocampos01/prolog-language">
-		<img alt="prolog" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=compiladores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/compiladores">
+		<b>Compiladores</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/compiladores">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=compiladores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/inteligencia-artificial"><b>Inteligencia Artificial</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=inteligencia-artificial&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/inteligencia-artificial">
+		<b>Inteligencia Artificial</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/inteligencia-artificial">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=inteligencia-artificial&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/redes-de-computadores"><b>Redes de Computadores</b></a></td>
-        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=redes-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/redes-de-computadores">
+		<b>Redes de Computadores</b></a></td>
+        <td>
+		<a href="https://github.com/brunocampos01/redes-de-computadores">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=redes-de-computadores&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/brunocampos01/seguranca-de-redes"><b>Seguranca de Redes</b></a></td>
-        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=seguranca-de-redes&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/seguranca-de-redes">
+		<b>Seguranca de Redes</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/seguranca-de-redes">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=seguranca-de-redes&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>  
       <tr>
-	<td><a href="https://github.com/brunocampos01/forecast-of-time-series-with-stock-data"><b>TCC</b></a></td>
-        <td><img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=forecast-of-time-series-with-stock-data&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+	<td>
+		<a href="https://github.com/brunocampos01/forecast-of-time-series-with-stock-data">
+		<b>TCC</b></a>
+	</td>
+        <td>
+		<a href="https://github.com/brunocampos01/forecast-of-time-series-with-stock-data">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=forecast-of-time-series-with-stock-data&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
     </tbody>
   </table>
