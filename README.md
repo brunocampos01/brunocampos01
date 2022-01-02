@@ -74,7 +74,10 @@
       </tr>
       <tr>
 	<td><a href="https://github.com/brunocampos01/prolog-language"><b>Prolog</b></a></td>
-        <td><img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+        <td>
+		<a href="https://github.com/brunocampos01/prolog-language">
+		<img alt="prolog" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=prolog-language&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
 	<td><a href="https://github.com/brunocampos01/compiladores"><b>Compiladores</b></a></td>
