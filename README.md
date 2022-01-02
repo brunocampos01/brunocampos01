@@ -170,7 +170,7 @@
 </details>
 
 <details>
-  <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> DevOps</b></summary>
+  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/docker.png"/></a> DevOps</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -180,20 +180,42 @@
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/devops"><b>DevOps</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/devops">
+		<b>DevOps</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/devops">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/home-sweet-home"><b>My Personal Configuration</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=home-sweet-home&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/home-sweet-home">
+		<b>My Personal Configuration</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/home-sweet-home">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=home-sweet-home&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	
       <tr>
-      	<td><a href="https://github.com/brunocampos01/encrypt-file"><b>Encrypt File</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=encrypt-file&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/encrypt-file">
+		<b>Encrypt File</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/encrypt-file">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=encrypt-file&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/showenv"><b>Show Enviroment</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=showenv&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/showenv">
+		<b>Show Enviroment</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/showenv">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=showenv&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	    
     </tbody>
   </table>
@@ -201,7 +223,7 @@
 </details>
 
 <details>
-  <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/elephant.png"/></a> Data Engineer</b></summary>
+  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/elephant.png"/></a> Data Engineer</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -213,24 +235,52 @@
 	<tr>
       	</tr>
 	<tr>
-      	<td><a href="https://github.com/brunocampos01/becoming-a-expert-python"><b>Becoming a Expert Python</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/becoming-a-expert-python">
+		<b>Becoming a Expert Python</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/becoming-a-expert-python">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure"><b>Automated Business Intelligence at Azure</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=automated-business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure">
+		<b>Automated Business Intelligence at Azure</b></a>
+	</td>
+      	<td>										
+		<a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=automated-business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering"><b>Becoming a Expert Data Engineering</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering">
+		<b>Becoming a Expert Data Engineering</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering">
+		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
       </tr>
 	<tr>
-      	  <td><a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper"><b>Stock Price and Indexes Scraper</b></a></td>
-      	  <td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=stock-price-and-indexes-scraper&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	  <td>
+	  	<a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper">
+		<b>Stock Price and Indexes Scraper</b></a>
+		</td>
+      	  <td>
+		<a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper">
+		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=stock-price-and-indexes-scraper&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+	</td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/brunocampos01/pyssas"><b>Python API to handler SSAS</b></a></td>
-      	<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=pyssas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	<td>
+		<a href="https://github.com/brunocampos01/pyssas">
+		<b>Python API to handler SSAS</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/pyssas">
+		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=pyssas&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>	    
     </tbody>
   </table>
@@ -238,7 +288,7 @@
 </details>
 
 <details>
-  <summary><b>  <a href="#"><img src="https://img.icons8.com/material/24/000000/test-tube--v1.png"/></a> Data Science</b></summary>
+  <summary><b>  <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/test-tube--v1.png"/></a> Data Science</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
@@ -248,50 +298,65 @@
     </thead>
     <tbody>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/finding-donors"><b>Finding Donors</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=finding-donors&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			 <a href="https://github.com/brunocampos01/finding-donors">
+			<b>Finding Donors</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/finding-donors">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=finding-donors&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
       	</tr>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction"><b>Porto Seguro Safe Driver Prediction</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			<a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction">
+			<b>Porto Seguro Safe Driver Prediction</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact"><b>Predict Which Customers a Call Center Should Contact</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			<a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact">
+			<b>Predict Which Customers a Call Center Should Contact</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	</tr>
 	    	<tr>
-      		<td><a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio"><b>Predicting Retail Churn with Azure ML Studio</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predicting-retail-churn-with-azure-ml-studio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			<a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio">
+			<b>Predicting Retail Churn with Azure ML Studio</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predicting-retail-churn-with-azure-ml-studio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/federated-learning-for-text-generation"><b>Federated Learning for Text Generation</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=federated-learning-for-text-generation&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			<a href="https://github.com/brunocampos01/federated-learning-for-text-generation">
+			<b>Federated Learning for Text Generation</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/federated-learning-for-text-generation">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=federated-learning-for-text-generation&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
 	<tr>
-      		<td><a href="https://github.com/brunocampos01/allstate-claims-severity"><b>Allstate Claims Severity</b></a></td>
-      		<td><a href="#"></a> <img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      		<td>
+			<a href="https://github.com/brunocampos01/allstate-claims-severity">
+			<b>Allstate Claims Severity</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/brunocampos01/allstate-claims-severity">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       	</tr>
     </tbody>
   </table>
   <br />
 </details>
-
-<!-- 
-<details>
-  <summary><b>  <a href="#"><img src="https://img.icons8.com/metro/24/000000/serial-tasks.png"/></a> MLOps</b></summary>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>Projects</b></td>
-        <td><b>Summary</b></td>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
-  <br />
-</details> -->
 
 
 
