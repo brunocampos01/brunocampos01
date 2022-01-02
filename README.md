@@ -223,7 +223,7 @@
 </details>
 
 <details>
-  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/elephant.png"/></a> Data Engineer</b></summary>
+  <summary><b> <a href="#-my-open-souce-projects"><img src="https://img.icons8.com/material/24/000000/elephant.png"/></a> Data Engineering</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
