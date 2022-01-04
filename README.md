@@ -236,12 +236,12 @@
       	</tr>
 	<tr>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-a-expert-python">
-		<b>Becoming a Expert Python</b></a>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-python">
+		<b>Becoming an Expert Python</b></a>
 	</td>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-a-expert-python">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-python">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-an-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
       <tr>
@@ -255,12 +255,12 @@
       </tr>
       <tr>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering">
-		<b>Becoming a Expert Data Engineering</b></a>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-data-engineering">
+		<b>Becoming an Expert Data Engineering</b></a>
 	</td>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-a-expert-data-engineering">
-		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-a-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-data-engineering">
+		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-an-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       </tr>
 	<tr>
