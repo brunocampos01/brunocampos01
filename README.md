@@ -236,32 +236,22 @@
       </tr>
       <tr>
       	<td>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-data">
+		<b>Becoming an Expert Data</b></a>
+	</td>
+      	<td>
+		<a href="https://github.com/brunocampos01/becoming-an-expert-data">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-an-expert-data&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
+      </tr>
+      <tr>
+      	<td>
 		<a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure">
 		<b>Automated Business Intelligence at Azure</b></a>
 	</td>
       	<td>										
 		<a href="https://github.com/brunocampos01/automated-business-intelligence-at-azure">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=automated-business-intelligence-at-azure&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      </tr>
-      <tr>
-      	<td>
-		<a href="https://github.com/brunocampos01/becoming-an-expert-data-engineering">
-		<b>Becoming an Expert Data Engineering</b></a>
-	</td>
-      	<td>
-		<a href="https://github.com/brunocampos01/becoming-an-expert-data-engineering">
-		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-an-expert-data-engineering&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-		</td>
-      </tr>
-	<tr>
-      	  <td>
-	  	<a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper">
-		<b>Stock Price and Indexes Scraper</b></a>
-		</td>
-      	  <td>
-		<a href="https://github.com/brunocampos01/stock-price-and-indexes-scraper">
-		<img alt="Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=stock-price-and-indexes-scraper&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	</td>
       </tr>
       <tr>
       	<td>
