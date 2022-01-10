@@ -19,7 +19,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/brunocampos01/devops)
  -->
 <details>	
-  <summary><b>  <a href="#"><img src="https://img.icons8.com/material/24/000000/github-2.png"/></a> Github Profile Stats</b></summary>
+  <summary><b>  <a href="#" onclick="return false;"><img src="https://img.icons8.com/material/24/000000/github-2.png"/></a> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
