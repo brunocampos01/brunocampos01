@@ -19,14 +19,14 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=devops&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/brunocampos01/devops)
  -->
 <details>	
-  <summary><b>  <a href="#" onclick="return false;"><img src="https://img.icons8.com/material/24/000000/github-2.png"/></a> Github Profile Stats</b></summary>
+  <summary><a href="#"><img src="https://img.icons8.com/material/24/000000/github-2.png"/></a><b> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 
 <details>	
-  <summary><b>  <a href="#"><img src="https://img.icons8.com/material-outlined/24/000000/minimum-value.png"/></a> Contribuition Time Series</b></summary>
+  <summary><a href="#"><img src="https://img.icons8.com/material-outlined/24/000000/minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 
@@ -226,12 +226,12 @@
       	</tr>
 	<tr>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-an-expert-python">
-		<b>Becoming an Expert Python</b></a>
+		<a href="https://github.com/brunocampos01/understanding-the-python-ecosystem">
+		<b>Understanding the Python Ecosystem</b></a>
 	</td>
       	<td>
-		<a href="https://github.com/brunocampos01/becoming-an-expert-python">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=becoming-an-expert-python&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		<a href="https://github.com/brunocampos01/ understanding-the-python-ecosystem">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=understanding-the-python-ecosystem&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	</td>
       </tr>
       <tr>
