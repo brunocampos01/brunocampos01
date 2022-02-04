@@ -34,7 +34,7 @@
 
 ### <a href="#"><img src="https://img.icons8.com/material/24/000000/open-source.png"/></a> My Open Souce Projects
 <details>
-  <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/graduation-cap--v1.png"/></a> Graduation</b></summary>
+  <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/graduation-cap--v1.png"/></a> Academic Projects</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
