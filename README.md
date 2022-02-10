@@ -1,5 +1,8 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunocampos01.visitor-badgee&color=green&style=flat-square">
 
+
+<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
+
 ## Hey There, I'm Bruno Campos
 <!-- <img src="https://user-images.githubusercontent.com/12896018/147711344-0b319afa-ac61-4a8b-a321-f14f1add0635.gif" align="right" width="150px">
  -->
