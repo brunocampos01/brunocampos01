@@ -6,10 +6,10 @@
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
  
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;6%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B8+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B6+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <details>	
   <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
