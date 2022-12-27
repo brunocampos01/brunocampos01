@@ -18,10 +18,12 @@
   <br/>
 </details>
 
+<!-- 
 <details>	
-  <summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<summary><a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
+<img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
+-->
 
 <br/>
 
