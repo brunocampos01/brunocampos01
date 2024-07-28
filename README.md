@@ -357,7 +357,4 @@
 	</a>
 	<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/github.png" width="30"></a>
 	<a href="https://profile.codersrank.io/user/brunocampos01" target="_blank"><img src="https://img.icons8.com/material/24/000000/source-code--v1.png" width="30">
-	</a>
-	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/medium.png" width="30">
-	</a>
 </p>
