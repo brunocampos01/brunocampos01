@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:img.icons8.com)",
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "WebFetch(domain:github-readme-activity-graph.vercel.app)",
+      "WebFetch(domain:readme-typing-svg.demolab.com)",
+      "WebFetch(domain:komarev.com)"
+    ]
+  }
+}
